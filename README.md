@@ -44,9 +44,9 @@ The React application will report an address which you can then access the chat 
 
 ## License
 
-N/A
+[MIT](https://github.com/kevin2244/react-client-chat/blob/master/LICENSE.md)
 
 
 ## See Also
 See also the corresponding chat server application you can use to connect to this chat client:
-https://github.com/kevin2244/chat-react-ws
+https://github.com/kevin2244/chat-server-ws
