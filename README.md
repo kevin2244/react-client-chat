@@ -1,5 +1,5 @@
 # react-client-chat
-A React javascript client chat app that connects to a chat server using Websockets.
+A React javascript client chat app that connects to a chat server from a browser using Websockets.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ Install dependencies inside the cloned repository directory
 npm install
 ```
 
-You must adjust the server address in index.js to that of your running chat server.
+You **must** adjust the server address in index.js to that of your running chat server.
 
 ### Running the chat client
 
@@ -48,5 +48,5 @@ The React application will report an address which you can then access the chat 
 
 
 ## See Also
-See also the corresponding chat server application you can use to connect to this chat client:
+See also the corresponding chat server application you can use to connect to with this chat client:
 https://github.com/kevin2244/chat-server-ws
